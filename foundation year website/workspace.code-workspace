@@ -1,0 +1,21 @@
+{
+    "folders": [
+		{
+			"name": "Website Project",
+			"uri": "vsls:/"
+		}
+	],
+    "settings": {
+        "vsliveshare.join.reload.workspaceId": "47D62B0C0C98B04F8453348B23EB29696621",
+        "vsliveshare.join.reload.workspaceFolder": "C:\\Users\\Cricsun\\AppData\\Local\\Temp\\vsliveshare\\tmp-47D62B0C0C98B04F8453348B23EB29696621",
+        "files.hotExit": "off",
+        "extensions.ignoreRecommendations": true,
+        "typescript.tsc.autoDetect": "off",
+        "jake.autoDetect": "off",
+        "grunt.autoDetect": "off",
+        "gulp.autoDetect": "off",
+        "npm.autoDetect": "off",
+        "debug.allowBreakpointsEverywhere": true,
+        "html.autoClosingTags": false
+    }
+}

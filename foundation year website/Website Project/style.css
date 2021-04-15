@@ -1,0 +1,28 @@
+.col {
+    text-align: right;
+    }
+    .pull-right {
+    margin: 0 0 0 auto;
+    }
+
+.verticalpad {
+    padding: 100px 0px;
+}
+.verticalpad2 {
+  padding: 60px 0px;
+}
+.horizontalpad{
+   padding: 0px 20px;
+}
+.horizontalpad2{
+  padding: 0px 27px;
+}
+.navbar-custom {
+    height: 100px;
+  }
+
+  .text-large {
+    font-size: 150%;
+  }
+  
+  
